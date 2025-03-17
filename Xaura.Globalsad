@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>XAURA Global</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <img src="xaura-logo.jpg" alt="Логотип XAURA">
+</header>
+
+<!-- Основной блок -->
+<main>
+  <h1 data-lang="title">Добро пожаловать на наш сайт!</h1>
+  <p data-lang="description">Мы предлагаем лучшие продукты для вас.</p>
+</main>
+
+<!-- Раздел: Главное сообщение -->
+<section>
+  <h1 data-lang="main-title">XAURA Global - возможности для заработка</h1>
+  <p data-lang="main-desc">Откройте для себя перспективы успешного бизнеса вместе с XAURA Global.</p>
+</section>
+
+<!-- Раздел: О компании -->
+<section class="about">
+  <h2 data-lang="about-title">О компании</h2>
+  <p data-lang="about-text">
+    XAURA Global - это международная компания, основанная в 2024 году, которая специализируется на 
+    <a href="https://shop.xauraglobal.com/?sp=XA25986310777" class="btn" target="_blank">Продуктах</a> для здоровья и ухода. 
+    В ассортименте представлены трансдермальные пластыри, косметика и оздоровительные напитки, созданные с применением современных технологий.
+  </p>
+</section>
+
+<!-- Раздел: Возможности заработка -->
+<section class="opportunities">
+  <h2 data-lang="opportunities-title">Как можно заработать с XAURA?</h2>
+  <p data-lang="opportunities-text">
+    Компания предлагает сотрудничество в формате сетевого маркетинга, где доход зависит от личных продаж и развития партнерской сети. 
+    В маркетинг-плане предусмотрены несколько видов вознаграждений:
+  </p>
+  <ul>
+    <li>
+      <strong data-lang="bonus1-title">Бонус за личные продажи</strong> – процент от реализации продукции.
+    </li>
+    <li>
+      <strong data-lang="bonus2-title">Командный бонус</strong> – дополнительный доход за развитие сети партнеров.
+    </li>
+    <li>
+      <strong data-lang="bonus3-title">Карьерные выплаты</strong> – премии за достижение новых уровней в компании (Ruby, Emerald, Diamond и выше).
+    </li>
+    <li>
+      <strong data-lang="bonus4-title">Дивиденды от прибыли</strong> – партнеры, достигшие высоких рангов, получают часть ежегодного дохода компании.
+    </li>
+  </ul>
+</section>
+
+<!-- Раздел: Поддержка и обучение -->
+<section class="support">
+  <h2 data-lang="support-title">Поддержка и обучение</h2>
+  <p data-lang="support-text">
+    XAURA Global активно расширяет своё присутствие на международных рынках, открывая новые возможности для партнёров по всему миру. 
+    Компания предлагает гибкие условия сотрудничества, позволяя каждому развивать собственный бизнес и получать стабильный доход.
+  </p>
+  <p data-lang="support-text-2">
+    Новым участникам предоставляется обучение и всесторонняя поддержка, включая знакомство с продукцией, маркетинг-планом и стратегиями продвижения. 
+    Это помогает быстро освоиться и эффективно выстраивать свою работу. 
+    В рамках обучения проводятся вебинары, тренинги и консультации с опытными наставниками.
+  </p>
+</section>
+
+<!-- Раздел: Контакты -->
+<section class="contacts">
+  <h2 data-lang="contacts-title">Свяжитесь с нами</h2>
+  <p data-lang="contacts-text">
+    Для более детального знакомства с продукцией и условиями сотрудничества вы можете посетить официальный сайт XAURA Global или обратиться к её представителям, которые помогут сделать первый шаг к успешному развитию.
+<div class="discount-container">
+    <h2>скидка от 25% до 50%</h2>
+    <button class="discount-button" onclick="window.location.href='https://backoffice.xauraglobal.com/s/l?c=MKn0hF';">
+    Получить скидку
+</button>
+</div>
+  </p>
+  <a href=https://api.whatsapp.com/send?phone=77770665816 class="button whatsapp">WhatsApp</a>
+  <a href="https://t.me/Zdoroviestar" class="button telegram">Telegram</a>
+  <a href="https://instagram.com/saulesadvakassova.kz?igsh=aDdidHR0ZjVhd3Bk" class="button instagram">Instagram</a>
+</section>
+
+</body>
+</html>
